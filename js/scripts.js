@@ -20,9 +20,9 @@ var
 	value = (a * a) + (2 * a * b) - (b * b);
 console.log("Result is: " + value);
 if (value > 0) {
-	console.log("Result is positive")
+	console.log("Result is positive");
 } if (value < 0) {
-	console.log("Resalt is negative")
+	console.log("Resalt is negative");
 } if (value == 0) {
-	console.log("Result is zero")
+	console.log("Result is zero");
 }
